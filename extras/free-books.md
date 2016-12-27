@@ -48,6 +48,10 @@ Name | Author(s)
 
 ### Math (Discrete Math)
 
+Name | Author(s)
+:-- | :--:
+[Applied Discrete Structures](http://faculty.uml.edu/klevasseur/ads2/) | Alan Doerr, Ken Levasseur
+
 ### Algorithms
 
 ### Programming Paradigms
@@ -108,6 +112,7 @@ Name | Author(s)
 Name | Author(s)
 :-- | :--:
 [Deep Learning](http://www.deeplearningbook.org/) | Ian Goodfellow, Yoshua Bengio and Aaron Courville
+[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) | David Barber
 
 ### Natural Language Processing
 

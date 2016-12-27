@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [6.0] 2016-10-09
+### Updated
+- Put Calculus One before and together with Mathematics for Computer Science
+- Improve text in "Order of the classes"
+
+### Added
+- Create public Trello board with the new curriculum version
+- Create the section "How to track and show your progress" in "How to use this guide"
+- Add PROJECTS.md file
+- Copy all sections of curriculum to PROJECTS.md
+
+### Removed
+- Remove "Next Goals" section
+- Remove reference to OSSU web app
+
+## [5.1.0] 2016-08-20
+Update to latest version of Math for Computer Science:
+
+### Updated
+- Section: **Math (Discrete Math)**
+  - Mathematics for Computer Science
+
 ## [5.0.0] 2016-08-20
 Due to removed course, we had the following updates:
 
